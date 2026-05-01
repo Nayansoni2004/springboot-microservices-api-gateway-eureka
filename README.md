@@ -95,7 +95,24 @@ http://localhost:45454/info
 
 ---
 
-## ⚙️ Tech Stack
+## Screenshots
+
+### Eureka Dashboard
+![Eureka Dashboard](images/eureka-dashboard.png)
+
+---
+
+### API Gateway Routing Test
+![API Gateway](images/api-gateway-test.png)
+
+---
+
+### Microservice A Response (m7a)
+![m7a](images/m7a-response.png)
+
+---
+
+## Tech Stack
 
 - Java 21
 - Spring Boot 4
